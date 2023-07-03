@@ -1,0 +1,1 @@
+/usr/bin/g++  -fopenmp -g   CMakeFiles/final_proj.dir/src/main.cpp.o CMakeFiles/final_proj.dir/src/Input.cpp.o  -o final_proj  /usr/lib/x86_64-linux-gnu/liblapacke.so /usr/lib/x86_64-linux-gnu/liblapack.so /usr/lib/x86_64-linux-gnu/libblas.so 

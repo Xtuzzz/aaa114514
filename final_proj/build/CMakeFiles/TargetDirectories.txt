@@ -1,0 +1,3 @@
+/data/final_proj/build/CMakeFiles/rebuild_cache.dir
+/data/final_proj/build/CMakeFiles/edit_cache.dir
+/data/final_proj/build/CMakeFiles/final_proj.dir

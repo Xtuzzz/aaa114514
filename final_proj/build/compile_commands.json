@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/data/final_proj/build",
+  "command": "/usr/bin/g++    -fopenmp -g   -w -std=gnu++2a -o CMakeFiles/final_proj.dir/src/main.cpp.o -c /data/final_proj/src/main.cpp",
+  "file": "/data/final_proj/src/main.cpp"
+},
+{
+  "directory": "/data/final_proj/build",
+  "command": "/usr/bin/g++    -fopenmp -g   -w -std=gnu++2a -o CMakeFiles/final_proj.dir/src/Input.cpp.o -c /data/final_proj/src/Input.cpp",
+  "file": "/data/final_proj/src/Input.cpp"
+}
+]

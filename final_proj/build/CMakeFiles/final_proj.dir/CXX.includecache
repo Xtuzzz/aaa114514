@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/data/final_proj/src/Input.h
+string
+-
+vector
+-
+
+/data/final_proj/src/main.cpp
+iostream
+-
+Input.h
+/data/final_proj/src/Input.h
+vector
+-
+boost/math/interpolators/cubic_b_spline.hpp
+-
+omp.h
+/data/final_proj/src/omp.h
+fstream
+-
+vecLib/clapack.h
+-
+lapacke.h
+/data/final_proj/src/lapacke.h
+
